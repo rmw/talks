@@ -4,7 +4,7 @@
 You've learned some JavaScript and some Rails and even how to connect
 the two with AJAX.  But how do you really bring complicated JavaScript
 together with your server without duplicating code or doing weird
-stuff to connect the two?
+stuff to connect the two? What's going on behind the scenes in all those JavaScript frameworks?
 
 In this talk, we'll discuss the three standard ways to connect
 JavaScript with Rails: html fragments, JSON, and bootstrapping your
@@ -16,7 +16,7 @@ needs.
 You've learned some JavaScript and some Rails and even how to connect
 the two with AJAX.  But how do you really bring complicated JavaScript
 together with your server without duplicating code or doing weird
-stuff to connect the two?
+stuff to connect the two? What's going on behind the scenes in all those JavaScript frameworks?
 
 In this talk, we'll discuss the three standard ways to connect
 JavaScript with Rails: html fragments, JSON, and bootstrapping your
