@@ -9,6 +9,7 @@ Rebecca Miller-Webster is a software engineer, conference organizer, and teacher
 http://www.rebeccamiller-webster.com
 twitter.com/rmillerwebster
 github.com/rmw
+https://www.linkedin.com/in/rjmillerwebster
 
 ## Previous Talks
 
