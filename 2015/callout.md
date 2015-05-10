@@ -36,6 +36,7 @@ Participants will leave the workshop able to name the common, uncomfortable expe
 
 ## Submitted to
 
+* Madison Ruby, 2015
 * Grace Hopper, 2015
 
 

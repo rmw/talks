@@ -57,4 +57,5 @@ for products and businesses.
 
 ## Submitted to
 
-- Windy City Rails
+- Madison Ruby, 2015
+- Windy City Rails, 2015

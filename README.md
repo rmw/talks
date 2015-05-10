@@ -28,6 +28,8 @@
 
 ## Oppression
 
+* [What you can do for women in
+  tech](./2015/women-visible-tech-leaders.md)
 * [How to call people out: Microaggressions & creating cultural change](./2015/callout.md)
 * [Teaching microaggressions to create cultural
   change](./2015/teaching-microaggressions.md)
