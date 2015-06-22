@@ -36,6 +36,8 @@ Participants will leave the workshop able to name the common, uncomfortable expe
 
 ## Submitted to
 
+* AlterConf Chicago, 2015
+* Realtime Conf, 2015
 * Madison Ruby, 2015
 * Grace Hopper, 2015
 
