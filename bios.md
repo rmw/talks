@@ -6,14 +6,14 @@ Rebecca Miller-Webster is a software engineer, conference organizer, and educato
 
 ## Links
 
-http://www.rebeccamiller-webster.com
-twitter.com/rmillerwebster
-github.com/rmw
-https://www.linkedin.com/in/rjmillerwebster
+* http://www.rebeccamiller-webster.com
+* twitter.com/rmillerwebster
+* github.com/rmw
+* https://www.linkedin.com/in/rjmillerwebster
 
 ## Previous Talks
 
-http://www.rebeccamiller-webster.com/2013/11/incremental-design-railsconf-2013/
-http://www.rebeccamiller-webster.com/talks-press/#speak
-http://www.rebeccamiller-webster.com/category/talks/
+* http://www.rebeccamiller-webster.com/2013/11/incremental-design-railsconf-2013/
+* http://www.rebeccamiller-webster.com/talks-press/#speak
+* http://www.rebeccamiller-webster.com/category/talks/
 

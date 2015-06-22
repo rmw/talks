@@ -4,19 +4,29 @@
 ## Abstract
 There's a lot of talk about the lack of women in tech.  Most of it focuses on teaching women to code.  But women already know how to code.
 
-Women are already in tech.  50% of those women leave tech after 10 years.  
+Women are already in tech.  50% of those women leave tech after 10 years.  There
+are 3 important roles mentors have played in my life in tech and have
+helped me get pasted the decade mark!
 
-Let's talk about making tech are positive space for women and what you can do to help to help increase the numbers, but also the retention and happiness of women in tech.
+Let's talk about making tech are positive space for women and what you can do,
+not just to help to help increase the numbers, but to improve the
+ retention and happiness of women in tech.
 
 ## Description
-A few paragraphs.
+There's a lot of talk about the lack of women in tech.  Most of it focuses on teaching women to code.  But women already know how to code.
+
+Women are already in tech.  50% of those women leave tech after 10 years.  There
+are 3 important roles mentors have played in my life in tech and have
+helped me get pasted the decade mark!
+
+Let's talk about making tech are positive space for women and what you can do,
+not just to help to help increase the numbers, but to improve the
+ retention and happiness of women in tech.
 
 ## Audience
-Who is the audience for?
+Anyone involved in the tech industry.
 
 ## Outcomes/Conclusions
-What will the audience get out of this talk? What do I want them to come
-away with?
 
 ## Outline
 

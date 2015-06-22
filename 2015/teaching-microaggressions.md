@@ -27,6 +27,22 @@ Participants will leave the workshop able to name the common, uncomfortable expe
 ## Outline
 
 
+## Brainstorm/notes
+
+6/22/15
+
+Teaching new developers about sexism in tech
+- it’s not a good time
+- it might cause an uproar in the short term - commit to the hard work
+- are you reacting with sexism? 
+- what does it mean to be “safe”?
+- individual feels vs. group
+- avoiding tokenism
+- young, middle class, white women
+- talking for real (stories, micro aggressions etc)
+
+
+
 ## Submitted to
 
 * Grace Hopper, 2015
