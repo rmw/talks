@@ -45,6 +45,7 @@ Teaching new developers about sexism in tech
 
 ## Submitted to
 
+* Beyond the Code, 2015
 * AlterConf Chicago, 2015
 * Grace Hopper, 2015
 

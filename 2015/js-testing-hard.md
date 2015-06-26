@@ -20,6 +20,12 @@ away with?
 
 ## Outline
 
+hard because
+- browsers + devices
+- async
+- http & servers
+- event lifecycle + document.ready
+
 - unit testing
 - “integration testing” without the server
 - you need both

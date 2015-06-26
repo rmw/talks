@@ -32,10 +32,16 @@ Possible topics:
 - Why Congress can’t get anything done
 - Right now the internet isn’t for everyone, but it has promise
 - Autonomy, identity, and safety
-- It’s about power 
+- It’s about power
+
+## Brainstorm/Notes
+
+- [Positive vs. negative rights](http://www.bmwbzz.com/2011/10/human-rights/)
+- [Adam Smith quotes](http://www.bmwbzz.com/2008/11/from-the-pen-of-adam-smith-vol-1/)
 
 ## Submitted to
 
-- RealTime Conf
+- Beyond the Code, 2015
+- RealTime Conf, 2015
 
 ## Given at

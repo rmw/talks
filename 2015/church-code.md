@@ -1,5 +1,6 @@
-# Title
+# 5 pillars of life and how we can bring them to code
 
+* All growed up: 5 essential pillars for people, organization, and the industry
 * The church of code: The 5 pillars of life that tech gets wrong
 * Ritual, Boundries, Stillness, Structure, & Discipline
 * what we can learn about community from churches
@@ -13,7 +14,6 @@
 Short and punchy.  A few sentences.
 
 ## Description
-A few paragraphs.
 
 ## Audience
 Who is the audience for?
@@ -24,7 +24,6 @@ away with?
 
 ## Outline
 
-
 - person and organization both struggle with
 - ritual but not yes-men or dogmatism or drinking the koolaid
 - boundaries between work & play; work and home; personal and organization; code/architecture boundaries
@@ -32,6 +31,14 @@ away with?
 - structure - too many meetings vs. not enough
 - discipline - stick to the process, rituals, boundaries, structure even when
 
+## Brainstorm/Notes
+Part of growing up has involved embracing this I rebelled against and
+finding the nuanced balance of why you rebelled and why it's necessary.
+Realizing that many of those things - from brushing my teeth and going
+to bed on time to eating dinner at the table.
+
+Industries and organizations have these same struggles, because tech is
+fundamentally about people.  What are these pillars of adulthood
 
 
 ## Submitted to

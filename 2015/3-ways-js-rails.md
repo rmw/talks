@@ -35,3 +35,20 @@ Rails (the server) and the pros and cons of various approaches.
 
 ## Outline
 
+
+## Brainstorm/Notes
+
+- HTTP
+- History of JS/AJAX on the web
+- Story of twitter (server-rendering, full js rendering, boostrap + html
+  fragment)
+
+
+## Submitted to
+
+- Windy City Rails, 2015
+
+## Given at
+
+- ChicagoRuby, April 2015
+- Windy City Rails, Sept 2015
