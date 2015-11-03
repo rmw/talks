@@ -7,8 +7,8 @@ Rebecca Miller-Webster is a software engineer, conference organizer, and educato
 ## Links
 
 * http://www.rebeccamiller-webster.com
-* twitter.com/rmillerwebster
-* github.com/rmw
+* http://twitter.com/rmillerwebster
+* http://github.com/rmw
 * https://www.linkedin.com/in/rjmillerwebster
 
 ## Previous Talks
