@@ -1,7 +1,7 @@
 
 ## Long
 
-Rebecca Miller-Webster is a software engineer, conference organizer, and educator. She is the founder of [Write/Speak/Code](http://www.writespeakcode.com) and VP of Engineering at
+Rebecca Miller-Webster is a software engineer, conference organizer, and educator. She is the founder of [Write/Speak/Code](http://www.writespeakcode.com) and CTO at
 [Polymathic](http://teampolymathic.com/).
 
 Rebecca has been developing software professionally for over a decade, previously organized [GORUCO](http://goruco.com), and was the founding teacher at Dev Bootcamp NYC. She has taught hundreds of coders of all experience levels in software development, public speaking, leadership, communication and oppression.
@@ -14,7 +14,7 @@ And she changes her hair. A lot.
 
 ## 500 words
 
-Rebecca Miller-Webster is a software engineer, conference organizer, and educator. She is the founder of [Write/Speak/Code](http://www.writespeakcode.com) and VP of Engineering at
+Rebecca Miller-Webster is a software engineer, conference organizer, and educator. She is the founder of [Write/Speak/Code](http://www.writespeakcode.com) and CTO at
 [Polymathic](http://teampolymathic.com/). Rebecca has been developing software professionally for over a decade, previously organized [GORUCO](http://goruco.com), and was the founding teacher at Dev Bootcamp NYC. Rebecca lives in Chicago with her husband and 2 dogs. And she changes her hair. A lot.
 
 ## Links
