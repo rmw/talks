@@ -45,5 +45,7 @@ to more extensible, understandable, and scalable code.
 
 ## Submitted to
 
+* RailsConf 2016
+
 
 ## Given at

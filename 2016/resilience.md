@@ -75,5 +75,10 @@ some personal food-for-thought.
 
 ## Submitted to
 
+* RailsConf 2016
+* Self Conference 2016
+* NDC Oslo 2016
+* DevOps Days ATL 2016
+
 
 ## Given at

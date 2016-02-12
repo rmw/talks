@@ -94,6 +94,8 @@ Evolved from [Three ways to use JavaScript with Rails](./2015/3-ways-js-rails.md
 ## Submitted to
 
 * RailsConf 2016
+* Self Conference 2016
+* NDC Oslo 2016
 
 
 ## Given at

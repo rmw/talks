@@ -68,6 +68,9 @@ You’ll leave with concrete techniques to use to give, receive and request feed
 
 * DevOpsDays Chicago, 2015
 * RailsConf 2016
+* Self Conference 2016
+* NDC Oslo 2016
+* DevOps Days ATL 2016
 
 
 ## Given at
