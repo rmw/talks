@@ -50,7 +50,7 @@ You'll come away with new ideas for thinking about engineering culture, retentio
 management, and team communication/relationships.  You'll also come away with
 some personal food-for-thought.
 
-## Outline
+## Tentative Outline
 
 * The complexity of individuals & groups
 * What is resilience?
