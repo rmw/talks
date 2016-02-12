@@ -31,6 +31,14 @@ You'll leave the talk able to assess the best approach for your app's
 needs and a deeper understanding of how the libraries and frameworks you use work
 under the hood.
 
+
+----
+
+Let's revisit the fundamentals of interacting with the client and
+the server.  We'll discuss the basic ways to connect JavaScript with a web application using examples in Ruby on Rails and other web frameworks. You'll leave the talk able to assess the best approach for your app's
+needs and a deeper understanding of how the libraries and frameworks you use work
+under the hood.
+
 ## Description
 New JavaScript frameworks and libraries popping up everywhere.  Code that was once only on
 the server is now performing beautifully on the client.  Data that once only lived
