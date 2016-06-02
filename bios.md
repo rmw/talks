@@ -8,14 +8,14 @@ Rebecca has been developing software professionally for over a decade, previousl
 
 Rebecca holds an Masters in Computer Science and a BA in Women and Gender Studies from [Washington University in St. Louis](http://wustl.edu/) and was named one of [7 Brillant Women in Tech](http://craigconnects.org/2014/06/7-brilliant-women-in-tech.html) by Craig Nemark, founder of Craigslist.
 
-She loves cupcakes, sea mammals, and prosecco. Rebecca lives in Oak Park, IL with her husband, black pug, and rescued havenese.
+She loves cupcakes, sea mammals, and prosecco. Rebecca's hobbies include drinking Diet Coke, wearing trousers, telling computers what to do, dogs, & swearing.
 
 And she changes her hair. A lot.
 
 ## 500 words
 
 Rebecca Miller-Webster is a software engineer, conference organizer, and educator. She is the founder of [Write/Speak/Code](http://www.writespeakcode.com) and CTO at
-[Polymathic](http://teampolymathic.com/). Rebecca has been developing software professionally for over a decade, previously organized [GORUCO](http://goruco.com), and was the founding teacher at Dev Bootcamp NYC. Rebecca lives in Chicago with her husband and 2 dogs. And she changes her hair. A lot.
+[Polymathic](http://teampolymathic.com/). Rebecca has been developing software professionally for over a decade, previously organized [GORUCO](http://goruco.com), and was the founding teacher at Dev Bootcamp NYC. Rebecca's hobbies include drinking Diet Coke, wearing trousers, telling computers what to do, dogs, & swearing.
 
 ## Links
 
