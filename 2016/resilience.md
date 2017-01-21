@@ -9,11 +9,11 @@
 
 We talk about redundancy and security when it comes to our infrastructure and
 applications, but we rarely think about creating those same
-things in our teams and ourselves.  
+things in our teams and ourselves.
 
 From the start-up financial roller coaster to a teammate's
 marriage (or divorce) to our own personal issues, success, scaling, and our future
-depend on complex and often chaotic factors.  
+depend on complex and often chaotic factors.
 
 In order to succeed, we need to create resilience, not just in our technology, but
 also in our organizations, our teams, and ourselves.
@@ -21,7 +21,7 @@ also in our organizations, our teams, and ourselves.
 ## Description
 We talk about redundancy and security when it comes to our infrastructure and
 applications, but we rarely think about creating those same
-things in our teams and ourselves.  
+things in our teams and ourselves.
 
 Yet we all know that humans are hard, hiring and retaining engineers is extremely difficult
 and more and more companies are focusing on culture.  We need more than
@@ -29,7 +29,7 @@ meetings, training, and social events.
 
 From the start-up financial roller coaster to a teammate's
 marriage (or divorce) to our own personal issues, success, scaling, and our future
-depend on complex and often chaotic factors.  
+depend on complex and often chaotic factors.
 
 
 In order to succeed, we need to create resilience, not just in our technology, but

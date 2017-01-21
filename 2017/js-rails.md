@@ -1,6 +1,6 @@
-# JavaScript and Rails: What you thought you knew
+# And you thought you knew JavaScript and Rails
 
-# The client and the server: What you thought you knew
+# And you thought you knew the client and the server
 
 ## Abstract
 
