@@ -8,14 +8,14 @@ Rebecca has been developing software professionally for over a dozen years, prev
 
 Rebecca holds an Masters in Computer Science and a BA in Women and Gender Studies from [Washington University in St. Louis](http://wustl.edu/) and was named one of [7 Brillant Women in Tech](http://craigconnects.org/2014/06/7-brilliant-women-in-tech.html) by Craig Nemark, founder of Craigslist.
 
-She loves cupcakes, sea mammals, and prosecco. Rebecca's hobbies include drinking Diet Coke, wearing trousers, telling computers what to do, pugs, & swearing.
+She loves cupcakes, sea mammals, and prosecco. Rebecca's hobbies include drinking Cherry Coke Zero, wearing trousers, telling computers what to do, cuddling pugs, & wearing all the colors.
 
 And she changes her hair. A lot.
 
 ## 500 words
 
 Rebecca Miller-Webster is a software engineer, conference organizer, and educator. She is the founder of [Write/Speak/Code](http://www.writespeakcode.com) and Practice Lead at
-[DevMynd](https://www.devmynd.com/). Rebecca has been developing software professionally for over a dozen years, previously organized [GORUCO](http://goruco.com), and was the founding teacher at Dev Bootcamp NYC. Rebecca's hobbies include drinking Diet Coke, wearing trousers, telling computers what to do, pugs, & swearing.
+[DevMynd](https://www.devmynd.com/). Rebecca has been developing software professionally for over a dozen years, previously organized [GORUCO](http://goruco.com), and was the founding teacher at Dev Bootcamp NYC. Rebecca's hobbies include drinking Cherry Coke Zero, wearing trousers, telling computers what to do, cuddling pugs, & wearing all the colors.
 
 ## Links
 
