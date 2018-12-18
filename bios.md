@@ -15,7 +15,7 @@ And she changes her hair. A lot.
 ## 500 words
 
 Rebecca Miller-Webster is a software engineer, educator, and engineering manager. She is the founder of [Write/Speak/Code](http://www.writespeakcode.com) and CTO at
-[Tandem](https://www.madeintandem.com/). Rebecca has been developing software professionally for over a dozen years, previously organized [GORUCO](http://goruco.com), and was the founding teacher at Dev Bootcamp NYC. Rebecca's hobbies include drinking Cherry Coke Zero, playing in an adult punk ensemble, cuddling pugs, & wearing all the colors.
+[Tandem](https://www.madeintandem.com/). Rebecca has been developing software professionally for over a dozen years, previously organized [GORUCO](http://goruco.com), and was the founding teacher at Dev Bootcamp NYC. Rebecca's hobbies include drinking Cherry Coke Zero, playing guitar in a retired punks ensemble, cuddling pugs, & wearing all the colors.
 
 ## Links
 
