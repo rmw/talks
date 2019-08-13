@@ -1,8 +1,8 @@
 
 ## Long
 
-Rebecca Miller-Webster is a software engineer, educator, and engineering manager. She is the founder of [Write/Speak/Code](http://www.writespeakcode.com) and CTO at
-[Tandem](https://www.madeintandem.com/).
+Rebecca Miller-Webster is a software engineer, educator, and engineering manager. She is the founder of [Write/Speak/Code](http://www.writespeakcode.com) and Director of Engineering at
+[Mastery Logistics Systems](https://www.mastery.net/).
 
 Rebecca has been developing software professionally for almost 15 years, previously organized [GORUCO](http://goruco.com), and was the founding teacher at Dev Bootcamp NYC. She has taught hundreds of coders of all experience levels in software development, public speaking, leadership, communication and oppression.
 
@@ -15,8 +15,8 @@ And she changes her hair. A lot.
 
 ## 500 words
 
-Rebecca Miller-Webster is a software engineer, educator, and engineering manager. She is the founder of [Write/Speak/Code](http://www.writespeakcode.com) and CTO at
-[Tandem](https://www.madeintandem.com/). Rebecca has been developing software professionally for over a dozen years, previously organized [GORUCO](http://goruco.com), and was the founding teacher at Dev Bootcamp NYC. Rebecca's hobbies include drinking Cherry Coke Zero, sipping Prosecco, playing guitar in a punk ensemble, cuddling pugs, & wearing all the colors.
+Rebecca Miller-Webster is a software engineer, educator, and engineering manager. She is the founder of [Write/Speak/Code](http://www.writespeakcode.com) and Director of Engineering at
+[Mastery Logistics Systems](https://www.mastery.net/). Rebecca has been developing software professionally for over a dozen years, previously organized [GORUCO](http://goruco.com), and was the founding teacher at Dev Bootcamp NYC. Rebecca's hobbies include drinking Cherry Coke Zero, sipping Prosecco, playing guitar in a punk ensemble, cuddling pugs, & wearing all the colors.
 
 ## Links
 
