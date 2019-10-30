@@ -8,7 +8,7 @@ Rebecca has been developing software professionally for over 15 years, previousl
 
 Rebecca holds an Masters in Computer Science and a BA in Women and Gender Studies from [Washington University in St. Louis](http://wustl.edu/) and was named one of [7 Brillant Women in Tech](http://craigconnects.org/2014/06/7-brilliant-women-in-tech.html) by Craig Newmark, founder of Craigslist.
 
-You can regularly find Rebecca playing guitar and singing in a punk ensemble at [The Old Town School of Folk Music](https://www.oldtownschool.org/). Rebecca's other hobbies include drinking Cherry Coke Zero, sipping Prosecco, cuddling pugs, &amp; wearing all the colors.
+You can regularly find Rebecca playing guitar and singing in a punk or Honk Tonk ensemble at [The Old Town School of Folk Music](https://www.oldtownschool.org/). Rebecca's other hobbies include drinking Cherry Coke Zero, sipping Prosecco, cuddling pugs, &amp; wearing all the colors.
 
 
 And she changes her hair. A lot.
