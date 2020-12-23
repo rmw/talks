@@ -14,7 +14,8 @@ And she changes her hair. A lot.
 
 ## 500 words
 
-Rebecca Miller-Webster is a software engineer, educator, and engineering manager. She is the founder of [Write/Speak/Code](http://www.writespeakcode.com) and Engineering Manager at [Venmo](https://venmo.com/). Rebecca has been developing software professionally for over a 15 years, previously organized [GORUCO](http://goruco.com), and was the founding teacher at Dev Bootcamp NYC. Rebecca's hobbies include drinking Diet Coke, sipping Prosecco, playing guitar in a punk ensemble, cuddling pugs, & wearing all the colors.  And she changes her hair A LOT.
+Rebecca Miller-Webster is a software engineer, educator, and engineering manager. She is the founder of [Write/Speak/Code](http://www.writespeakcode.com) and Engineering Manager at [Venmo](https://venmo.com/). Rebecca has been developing software professionally for almost 20 years, previously organized [GORUCO](http://goruco.com), and was the founding teacher at Dev Bootcamp NYC. Rebecca's hobbies include drinking Diet Coke, sipping Prosecco, playing guitar in a punk ensemble, cuddling pugs, & wearing all the colors.  And she changes her hair A LOT.
+
 
 ## Links
 
